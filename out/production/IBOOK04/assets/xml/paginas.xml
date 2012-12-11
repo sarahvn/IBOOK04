@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paginas>
+    <pagina>
+        <elements>
+            <element type="background">
+                <url>assets/images/bg1.jpg</url>
+            </element>
+            <element type="titel">
+                <content>Eerste Pagina</content>
+            </element>
+            <element type="text">
+                <content>Lorem yippiyo nizzle yo amet, izzle adipiscing sizzle. Nullam owned velizzle, aliquet volutpat, pimpin' quis, gravida vizzle, for sure. Pellentesque eget ass. Sizzle erizzle. Bizzle izzle dolizzle dapibus turpis tempus tempizzle. Mofo check out this nibh izzle turpis. Sheezy izzle fo shizzle. Pellentesque gangsta rhoncizzle bow wow wow. In hac fo shizzle mah nizzle fo rizzle, mah home g-dizzle boom shackalack dictumst. Nizzle dapibus. Brizzle tellizzle shit, pretizzle break yo neck, yall, mattis daahng dawg, eleifend check it out, nunc. Yo suscipizzle. Fo shizzle semper velit sizzle get down get down.</content>
+            </element>
+            <element type="image">
+                <url>assets/images/img1.JPG</url>
+                <xpos>50</xpos>
+                <ypos>300</ypos>
+
+            </element>
+            <element type="button">
+                <target>40</target>
+            </element>
+
+        </elements>
+    </pagina>
+
+    <pagina>
+        <elements>
+            <element type="background">
+                <url>assets/images/bg2.jpg</url>
+            </element>
+            <element type="titel">
+                <content>Tweede Pagina</content>
+            </element>
+            <element type="text">
+                <content>Lorem yippiyo nizzle yo amet, izzle adipiscing sizzle. Nullam owned velizzle, aliquet volutpat, pimpin' quis, gravida vizzle, for sure. Pellentesque eget ass. Sizzle erizzle. Bizzle izzle dolizzle dapibus turpis tempus tempizzle. Mofo check out this nibh izzle turpis. Sheezy izzle fo shizzle. Pellentesque gangsta rhoncizzle bow wow wow. In hac fo shizzle mah nizzle fo rizzle, mah home g-dizzle boom shackalack dictumst. Nizzle dapibus. Brizzle tellizzle shit, pretizzle break yo neck, yall, mattis daahng dawg, eleifend check it out, nunc. Yo suscipizzle. Fo shizzle semper velit sizzle get down get down.</content>
+            </element>
+            <element type="button">
+                <target>1</target>
+            </element>
+        </elements>
+    </pagina>
+
+    <pagina>
+        <elements>
+            <element type="background">
+                <url>assets/images/bg3.jpg</url>
+            </element>
+            <element type="titel">
+                <content>Derde Pagina</content>
+            </element>
+            <element type="button">
+                <target>2</target>
+            </element>
+        </elements>
+    </pagina>
+
+    <pagina>
+        <elements>
+            <element type="titel">
+                <content>Vierde Pagina</content>
+            </element>
+            <element type="text">
+                <content>Lorem yippiyo nizzle yo amet, izzle adipiscing sizzle. Nullam owned velizzle, aliquet volutpat, pimpin' quis, gravida vizzle, for sure. Pellentesque eget ass. Sizzle erizzle. Bizzle izzle dolizzle dapibus turpis tempus tempizzle. Mofo check out this nibh izzle turpis. Sheezy izzle fo shizzle. Pellentesque gangsta rhoncizzle bow wow wow. In hac fo shizzle mah nizzle fo rizzle, mah home g-dizzle boom shackalack dictumst. Nizzle dapibus. Brizzle tellizzle shit, pretizzle break yo neck, yall, mattis daahng dawg, eleifend check it out, nunc. Yo suscipizzle. Fo shizzle semper velit sizzle get down get down.</content>
+            </element>
+            <element type="button">
+                <target>1</target>
+            </element>
+        </elements>
+    </pagina>
+
+    <pagina>
+        <elements>
+            <element type="background">
+                <url>assets/images/bg2.jpg</url>
+            </element>
+            <element type="titel">
+                <content>Vijfde Pagina</content>
+            </element>
+            <element type="text">
+                <content>Lorem yippiyo nizzle yo amet, izzle adipiscing sizzle. Nullam owned velizzle, aliquet volutpat, pimpin' quis, gravida vizzle, for sure. Pellentesque eget ass. Sizzle erizzle. Bizzle izzle dolizzle dapibus turpis tempus tempizzle. Mofo check out this nibh izzle turpis. Sheezy izzle fo shizzle. Pellentesque gangsta rhoncizzle bow wow wow. In hac fo shizzle mah nizzle fo rizzle, mah home g-dizzle boom shackalack dictumst. Nizzle dapibus. Brizzle tellizzle shit, pretizzle break yo neck, yall, mattis daahng dawg, eleifend check it out, nunc. Yo suscipizzle. Fo shizzle semper velit sizzle get down get down.</content>
+            </element>
+            <element type="button">
+                <target>4</target>
+            </element>
+
+        </elements>
+    </pagina>
+
+    <pagina>
+        <elements>
+            <element type="background">
+                <url>assets/images/bg1.jpg</url>
+            </element>
+            <element type="titel">
+                <content>Zesde Pagina</content>
+            </element>
+            <element type="text">
+                <content>Lorem yippiyo nizzle yo amet, izzle adipiscing sizzle. Nullam owned velizzle, aliquet volutpat, pimpin' quis, gravida vizzle, for sure. Pellentesque eget ass. Sizzle erizzle. Bizzle izzle dolizzle dapibus turpis tempus tempizzle. Mofo check out this nibh izzle turpis. Sheezy izzle fo shizzle. Pellentesque gangsta rhoncizzle bow wow wow. In hac fo shizzle mah nizzle fo rizzle, mah home g-dizzle boom shackalack dictumst. Nizzle dapibus. Brizzle tellizzle shit, pretizzle break yo neck, yall, mattis daahng dawg, eleifend check it out, nunc. Yo suscipizzle. Fo shizzle semper velit sizzle get down get down.</content>
+            </element>
+        </elements>
+    </pagina>
+
+    <pagina>
+        <elements>
+            <element type="titel">
+                <content>Zevende Pagina</content>
+            </element>
+            <element type="text">
+                <content>Lorem yippiyo nizzle yo amet, izzle adipiscing sizzle. Nullam owned velizzle, aliquet volutpat, pimpin' quis, gravida vizzle, for sure. Pellentesque eget ass. Sizzle erizzle. Bizzle izzle dolizzle dapibus turpis tempus tempizzle. Mofo check out this nibh izzle turpis. Sheezy izzle fo shizzle. Pellentesque gangsta rhoncizzle bow wow wow. In hac fo shizzle mah nizzle fo rizzle, mah home g-dizzle boom shackalack dictumst. Nizzle dapibus. Brizzle tellizzle shit, pretizzle break yo neck, yall, mattis daahng dawg, eleifend check it out, nunc. Yo suscipizzle. Fo shizzle semper velit sizzle get down get down.</content>
+            </element>
+            <element type="button">
+                <target>2</target>
+            </element>
+
+        </elements>
+    </pagina>
+
+    <pagina>
+        <elements>
+            <element type="background">
+                <url>assets/images/bg3.jpg</url>
+            </element>
+            <element type="titel">
+                <content>Achtste Pagina</content>
+            </element>
+            <element type="text">
+                <content>Lorem yippiyo nizzle yo amet, izzle adipiscing sizzle. Nullam owned velizzle, aliquet volutpat, pimpin' quis, gravida vizzle, for sure. Pellentesque eget ass. Sizzle erizzle. Bizzle izzle dolizzle dapibus turpis tempus tempizzle. Mofo check out this nibh izzle turpis. Sheezy izzle fo shizzle. Pellentesque gangsta rhoncizzle bow wow wow. In hac fo shizzle mah nizzle fo rizzle, mah home g-dizzle boom shackalack dictumst. Nizzle dapibus. Brizzle tellizzle shit, pretizzle break yo neck, yall, mattis daahng dawg, eleifend check it out, nunc. Yo suscipizzle. Fo shizzle semper velit sizzle get down get down.</content>
+            </element>
+            <element type="button">
+                <target>1</target>
+            </element>
+        </elements>
+    </pagina>
+
+    <pagina>
+        <elements>
+            <element type="titel">
+                <content>Negende Pagina</content>
+            </element>
+            <element type="button">
+                <target>1</target>
+            </element>
+        </elements>
+    </pagina>
+</paginas>
