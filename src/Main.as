@@ -34,7 +34,7 @@ public class Main extends Sprite
         stage.nativeWindow.height = 600;
         stage.nativeWindow.x = (Screen.mainScreen.bounds.width - 800) * .5;
         stage.nativeWindow.y = (Screen.mainScreen.bounds.height - 600) * .5;
-        stage.nativeWindow.title = "IBOOK04";
+        stage.nativeWindow.title = "IBOOK04 - Jessy";
 
 
         /* --- Starling --- */
@@ -49,8 +49,7 @@ public class Main extends Sprite
 
     public function eventResizeHandler(event:Event = null):void
     {
-        var rectangle:Rectangle = new Rectangle(0,0, stage.stageWidth, stage.stageHeight);
-        starling.viewPort = rectangle;
+        starling.viewPort = new Rectangle(0,0, stage.stageWidth, stage.stageHeight);
         starling.stage.stageHeight = stage.stageHeight;
         starling.stage.stageWidth = stage.stageWidth;
     }
