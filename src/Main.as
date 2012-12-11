@@ -34,7 +34,7 @@ public class Main extends Sprite
         stage.nativeWindow.height = 600;
         stage.nativeWindow.x = (Screen.mainScreen.bounds.width - 800) * .5;
         stage.nativeWindow.y = (Screen.mainScreen.bounds.height - 600) * .5;
-        stage.nativeWindow.title = "IBOOK04 - Jessy";
+        stage.nativeWindow.title = "IBOOK04";
 
 
         /* --- Starling --- */
